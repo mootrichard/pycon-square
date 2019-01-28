@@ -1,4 +1,4 @@
-aniso8601==4.1.0
+aniso8601==3.0.2
 astroid==1.6.5
 awscli==1.16.64
 backports.functools-lru-cache==1.5
@@ -10,8 +10,12 @@ configparser==3.5.0
 docutils==0.14
 enum34==1.1.6
 Flask==1.0.2
-Flask-RESTful==0.3.7
+Flask-GraphQL==2.0.0
 futures==3.2.0
+graphene==2.1.3
+graphql-core==2.1
+graphql-relay==0.4.5
+graphql-server-core==1.1.1
 isort==4.3.4
 itsdangerous==1.1.0
 Jinja2==2.10
@@ -19,6 +23,7 @@ jmespath==0.9.3
 lazy-object-proxy==1.3.1
 MarkupSafe==1.1.0
 mccabe==0.6.1
+promise==2.2.1
 pyasn1==0.4.4
 pylint==1.9.3
 python-dateutil==2.7.5
@@ -26,10 +31,12 @@ python-dotenv==0.10.1
 pytz==2018.9
 PyYAML==3.13
 rsa==3.4.2
+Rx==1.6.1
 s3transfer==0.1.13
 singledispatch==3.4.0.3
 six==1.11.0
 squareconnect==2.20181212.0
+typing==3.6.6
 urllib3==1.24.1
 virtualenv==16.0.0
 Werkzeug==0.14.1
