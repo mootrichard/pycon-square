@@ -3,7 +3,6 @@ from flask_graphql import GraphQLView
 from graphene import Schema
 from schema import Query
 from dotenv import load_dotenv
-import os
 
 app = Flask(__name__)
 
