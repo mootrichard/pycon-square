@@ -29,7 +29,7 @@ pylint==1.9.3
 python-dateutil==2.7.5
 python-dotenv==0.10.1
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.1
 rsa==3.4.2
 Rx==1.6.1
 s3transfer==0.1.13
