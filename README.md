@@ -1,4 +1,4 @@
-# How to Wrap a RestFUL API with a GraphQL Endpoint
+# How to Wrap a RESTful API with a GraphQL Endpoint
 
 **Prerequisites:**
 - Have `virtualenv` installed
