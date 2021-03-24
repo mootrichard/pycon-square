@@ -30,7 +30,7 @@ python-dateutil==2.7.5
 python-dotenv==0.10.1
 pytz==2018.9
 PyYAML==3.13
-rsa==3.4.2
+rsa==4.1
 Rx==1.6.1
 s3transfer==0.1.13
 singledispatch==3.4.0.3
