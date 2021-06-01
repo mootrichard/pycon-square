@@ -37,7 +37,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 squareconnect==2.20181212.0
 typing==3.6.6
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.0.0
 Werkzeug==0.14.1
 wrapt==1.10.11
